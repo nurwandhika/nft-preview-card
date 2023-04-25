@@ -26,7 +26,7 @@ The NFT card is created using a background image, and is displayed within a div 
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/nurwandhika/nft-preview-card)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://nurwandhika.github.io/nft-preview-card/)
 
 ## My process
 
